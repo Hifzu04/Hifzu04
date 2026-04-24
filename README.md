@@ -13,7 +13,7 @@ I'm a Software Engineer experienced in building full-stack applications, solving
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifzu04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hifzu04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
