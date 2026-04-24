@@ -12,6 +12,8 @@ I'm a Software Engineer experienced in building full-stack applications, solving
 ![](https://nirzak-streak-stats.vercel.app/?user=Hifzu04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifzu04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hifzu04&theme=dark)](https://git.io/streak-stats)
+
 
 
 ## 🏆 GitHub Trophies
