@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Software Engineer experienced in building full-stack applications, solving complex Software engineering problems, and intrested in designing scalable and efficient microservices
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+I'm+Software+Developer;building+Scalable+Systems;solving+complex+engineering+problems)
 
 
 ## 🌐 Socials:
@@ -11,6 +12,7 @@ I'm a Software Engineer experienced in building full-stack applications, solving
 ![](https://github-readme-stats.vercel.app/api?username=Hifzu04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hifzu04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hifzu04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=Hifzu04&color=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hifzu04&theme=dark)](https://git.io/streak-stats)
 
